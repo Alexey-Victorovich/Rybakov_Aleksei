@@ -1,4 +1,4 @@
-package main.java.Lesson_1;
+package main.java.Lesson_2;
 
 public class Task2 {
     public static void checkSumSign() {

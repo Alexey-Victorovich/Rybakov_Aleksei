@@ -1,4 +1,4 @@
-package main.java.Lesson_1;
+package main.java.Lesson_2;
 
 public class Task3 {
     public static void printColor() {

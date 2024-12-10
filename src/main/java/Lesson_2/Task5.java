@@ -6,7 +6,7 @@
 // поэтому написал два варианта (второй вариант ниже закомментирован).
 // в остальных задачах тоже по 2 варианта.
 
-package main.java.Lesson_1;
+package main.java.Lesson_2;
 
 import java.util.Scanner;
 
