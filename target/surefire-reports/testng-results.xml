@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-26T20:53:11 MSK" name="Surefire suite" finished-at="2025-01-26T20:53:11 MSK" duration-ms="48">
+  <suite started-at="2025-01-26T21:19:32 MSK" name="Surefire suite" finished-at="2025-01-26T21:19:32 MSK" duration-ms="44">
     <groups>
     </groups>
-    <test started-at="2025-01-26T20:53:11 MSK" name="Surefire test" finished-at="2025-01-26T20:53:11 MSK" duration-ms="48">
+    <test started-at="2025-01-26T21:19:32 MSK" name="Surefire test" finished-at="2025-01-26T21:19:32 MSK" duration-ms="44">
       <class name="test.java.Lesson_14_testng.FactorialCalculatorTest">
-        <test-method signature="testFactorialOfNegativeNumber()[pri:0, instance:test.java.Lesson_14_testng.FactorialCalculatorTest@8b96fde]" started-at="2025-01-26T20:53:11 MSK" name="testFactorialOfNegativeNumber" finished-at="2025-01-26T20:53:11 MSK" duration-ms="6" status="PASS">
+        <test-method signature="testFactorialOfNegativeNumber()[pri:0, instance:test.java.Lesson_14_testng.FactorialCalculatorTest@971d0d8]" started-at="2025-01-26T21:19:32 MSK" name="testFactorialOfNegativeNumber" finished-at="2025-01-26T21:19:32 MSK" duration-ms="5" status="PASS">
           <exception class="java.lang.ArithmeticException">
             <message>
               <![CDATA[Факториал не определен для отрицательных чисел]]>
@@ -53,15 +53,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFactorialOfNegativeNumber -->
-        <test-method signature="testFactorialOfOne()[pri:0, instance:test.java.Lesson_14_testng.FactorialCalculatorTest@8b96fde]" started-at="2025-01-26T20:53:11 MSK" name="testFactorialOfOne" finished-at="2025-01-26T20:53:11 MSK" duration-ms="2" status="PASS">
+        <test-method signature="testFactorialOfOne()[pri:0, instance:test.java.Lesson_14_testng.FactorialCalculatorTest@971d0d8]" started-at="2025-01-26T21:19:32 MSK" name="testFactorialOfOne" finished-at="2025-01-26T21:19:32 MSK" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFactorialOfOne -->
-        <test-method signature="testFactorialOfPositiveNumber()[pri:0, instance:test.java.Lesson_14_testng.FactorialCalculatorTest@8b96fde]" started-at="2025-01-26T20:53:11 MSK" name="testFactorialOfPositiveNumber" finished-at="2025-01-26T20:53:11 MSK" duration-ms="0" status="PASS">
+        <test-method signature="testFactorialOfPositiveNumber()[pri:0, instance:test.java.Lesson_14_testng.FactorialCalculatorTest@971d0d8]" started-at="2025-01-26T21:19:32 MSK" name="testFactorialOfPositiveNumber" finished-at="2025-01-26T21:19:32 MSK" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFactorialOfPositiveNumber -->
-        <test-method signature="testFactorialOfZero()[pri:0, instance:test.java.Lesson_14_testng.FactorialCalculatorTest@8b96fde]" started-at="2025-01-26T20:53:11 MSK" name="testFactorialOfZero" finished-at="2025-01-26T20:53:11 MSK" duration-ms="0" status="PASS">
+        <test-method signature="testFactorialOfZero()[pri:0, instance:test.java.Lesson_14_testng.FactorialCalculatorTest@971d0d8]" started-at="2025-01-26T21:19:32 MSK" name="testFactorialOfZero" finished-at="2025-01-26T21:19:32 MSK" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFactorialOfZero -->
